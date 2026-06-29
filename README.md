@@ -1,14 +1,14 @@
 # Review Word Documents with Track Changes
 
-A quick-start project that shows how to review Word documents with tracked changes in the Syncfusion&reg; React Word Processor component. This project contains code to enable the track changes feature, accept or reject changes, filter changes by user, and use revision-only protection.
+A quick-start project that shows how to review Word documents with tracked changes in the Syncfusion&reg; [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). This project contains code to enable the track changes feature, accept or reject changes, filter changes by user, and use revision-only protection.
 
-Refer to the following track changes documentation for the Syncfusion&reg; React Word Processor component: 
+Refer to the following track changes documentation for the Syncfusion&reg; React DOCX Editor component: 
 https://ej2.syncfusion.com/react/documentation/document-editor/track-changes/
 
-Check out this online example of tracked changes in the Syncfusion&reg; React Word Processor component: 
+Check out this online example of tracked changes in the Syncfusion&reg; React DOCX Editor component: 
 https://ej2.syncfusion.com/react/demos/#/bootstrap5/document-editor/track-changes
 
-Watch the following video to get started with the React Word Processor component:
+Watch the following video to get started with the React DOCX Editor component:
 https://www.youtube.com/watch?v=tgJgvbnxdBA
 
 
