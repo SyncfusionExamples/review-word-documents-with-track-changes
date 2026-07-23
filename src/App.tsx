@@ -29,7 +29,7 @@ function App() {
      <DocumentEditorContainerComponent height='590' ref={(ins=>editorObj=ins)}
       enableToolbar={true} enableTrackChanges={true}
       showPropertiesPane={false}
-      serviceUrl="https://ej2services.syncfusion.com/production/web-services/api/documenteditor/">
+      serviceUrl="https://document.syncfusion.com/web-services/docx-editor/api/documenteditor/">
       <Inject services={[Toolbar]}></Inject>
      </DocumentEditorContainerComponent>
     </div>
